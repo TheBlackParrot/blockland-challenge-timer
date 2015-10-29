@@ -19,7 +19,7 @@ exec("./events.cs");
 exec("./commands.cs");
 exec("./saving.cs");
 
-$Pref::ChallengeTimer::Version = "1";
+$Pref::ChallengeTimer::Version = "1.0.0-1";
 
 function createChallengeBoards() {
 	// ChallengeBoard0 is to be used for the challenge overall
